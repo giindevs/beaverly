@@ -66,8 +66,6 @@ Full step-by-step: **[Install on Windows »](docs/install-windows.md)** ·
   Japanese, Chinese. First-run picks your language automatically.
 - 🦫 **Yours, offline** — works fully offline, no sign-up, no telemetry.
 
-<p align="center"><i>Screenshots below — see <a href="#-screenshots">Screenshots</a>.</i></p>
-
 ---
 
 ## 🔒 Privacy — offline-first by design
@@ -99,14 +97,6 @@ Beaverly Shelf is the desktop piece of a wider reading ecosystem. Explore the re
 > ℹ️ Links and store availability are listed on **[beaverly.com.br](https://beaverly.com.br)** — the single source of truth.
 
 ---
-
-## 📸 Screenshots
-
-<!--
-  Add real screenshots to docs/screenshots/ and reference them here.
-  Suggested set (filenames referenced below): library.png, reader.png, detail.png,
-  onboarding.png. Tip: capture at 1280×800 in both light and dark themes.
--->
 
 | Library | Reader |
 | --- | --- |
@@ -168,8 +158,6 @@ Your libraries are self-contained folders you choose. App settings live under
 
 Beaverly Shelf is proprietary software, free to download and use.
 © Beaverly. All rights reserved. The brand, mascot and app are property of Beaverly.
-
-> _Maintainers: confirm the exact license/terms you want here before publishing._
 
 ---
 
