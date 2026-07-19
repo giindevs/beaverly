@@ -76,6 +76,8 @@ leitura, anotações e backups são todos locais. A única coisa que toca a rede
 título/autor/ISBN pesquisado, nunca seus arquivos) ou o botão "buscar na web" do leitor.
 Nada é enviado automaticamente, não há telemetria, e a conta Beaverly é **opcional**.
 
+📄 Leia a **[Política de Privacidade completa »](PRIVACY.pt-BR.md)**
+
 ---
 
 ## 🧩 Ecossistema Beaverly
