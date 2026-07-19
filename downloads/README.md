@@ -8,6 +8,7 @@ page is recommended, as it always points to the latest version.
 | --- | --- |
 | Windows 10/11 (x64) | `beaverly-shelf-setup-0.1.0.exe` — per-user installer, no admin, no .NET needed |
 | Debian / Ubuntu (x64) | `beaverly-shelf_0.1.0_amd64.deb` — `sudo apt install ./beaverly-shelf_0.1.0_amd64.deb` |
+| Linux — any distro (x64) | `Beaverly-Shelf-0.1.0-x86_64.AppImage` — `chmod +x` and run (portable) |
 
 Install guides: [Windows](../docs/install-windows.md) · [Linux](../docs/install-linux.md).
 
