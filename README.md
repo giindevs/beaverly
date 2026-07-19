@@ -79,6 +79,8 @@ lookup (which sends only the title/author/ISBN you searched, never your files), 
 the reader's "search the web" button. Nothing is sent automatically, there's no
 telemetry, and a Beaverly account is **optional**, never required.
 
+📄 Read the full **[Privacy Policy »](PRIVACY.md)**
+
 ---
 
 ## 🧩 The Beaverly ecosystem
