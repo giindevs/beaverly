@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <!-- Favicon do Beaverly: carinha do castor (lê bem em 16px). -->
+  <rect width="64" height="64" rx="15" fill="#A8512E"/>
+  <!-- orelhas -->
+  <circle cx="20" cy="19" r="6.5" fill="#6f4427"/>
+  <circle cx="44" cy="19" r="6.5" fill="#6f4427"/>
+  <!-- cabeça -->
+  <ellipse cx="32" cy="34" rx="20" ry="18" fill="#9a6b3f"/>
+  <!-- focinho claro -->
+  <ellipse cx="32" cy="41" rx="12.5" ry="10" fill="#cfa46c"/>
+  <!-- olhos -->
+  <circle cx="24" cy="29" r="3.3" fill="#1c1c1c"/>
+  <circle cx="40" cy="29" r="3.3" fill="#1c1c1c"/>
+  <circle cx="25.1" cy="27.9" r="1" fill="#fff" opacity="0.85"/>
+  <circle cx="41.1" cy="27.9" r="1" fill="#fff" opacity="0.85"/>
+  <!-- nariz -->
+  <ellipse cx="32" cy="38" rx="3.6" ry="2.6" fill="#1c1c1c"/>
+  <!-- dentes (incisivos) -->
+  <rect x="28.8" y="41" width="6.4" height="9.5" rx="1.6" fill="#ffffff"/>
+  <line x1="32" y1="41.4" x2="32" y2="50" stroke="#cfcfcf" stroke-width="0.8"/>
+</svg>
