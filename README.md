@@ -106,9 +106,6 @@ Beaverly Shelf is the desktop piece of a wider reading ecosystem. Explore the re
 | --- | --- |
 | ![Details](docs/screenshots/detail.png) | ![Onboarding](docs/screenshots/onboarding.png) |
 
-*(If the images above are blank, they haven't been added yet — see
-[docs/screenshots/](docs/screenshots/).)*
-
 ---
 
 ## 🗺️ Roadmap
